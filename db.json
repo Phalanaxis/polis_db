@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Artyom",
+      "albums": [
+        {
+          "id": 1,
+          "images": [
+            {
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "id": 1,
+          "title": "testing post number one"
+        }
+      ]
+    }
+  ]
+}
